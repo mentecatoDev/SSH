@@ -928,3 +928,6 @@ Mediante este mecanismo, lo que hacemos es crear un servidor SOCKS en nuestro eq
 ```bash
 ssh -D 8080 -f -C -q -N remote.example.com
 ```
+
+27/10/2019
+
